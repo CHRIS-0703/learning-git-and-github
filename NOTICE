@@ -1,12 +1,12 @@
-Copyright 2021 LinkedIn Corporation
+Copyright 2021 O'Reilly Corporation
 All Rights Reserved.
 
-Licensed under the LinkedIn Learning Exercise File License (the "License").
+Licensed under the O'Reilly Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
-Please note, this project may automatically load derde party code from external 
+Please note, this project may automatically load 3rd party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
-If so, such derde party code may be subject to other license terms than as set 
-forth above. In addition, such derde party code may also depend on and load 
+If so, such 3rd party code may be subject to other license terms than as set 
+forth above. In addition, such 3rd party code may also depend on and load 
 multiple tiers of dependencies. Please review the applicable licenses of the 
 additional dependencies.
