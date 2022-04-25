@@ -1,3 +1,6 @@
+#Introduction by Chris Smids
+This introduction is added in the scope of testing the Stash possibility with the Git command
+
 # Learning Git and GitHub
 This is the repository for the LinkedIn Learning course Learning Git and GitHub. The full course is available from [LinkedIn Learning][lil-course-url].
 
